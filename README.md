@@ -24,7 +24,8 @@ Only the things you love.
 
 🏆 **Published in top general-science (*PNAS*) and AI venues (AAAI, UbiComp).**
 
-📊 **1.2M+** participants · 🌏 **65** countries · 🤖 **67** AI systems audited  
+📊 **1.2M+** participants · 🌏 **65** countries · 🤖 **67** AI systems audited
+
 👥 Collaborators including [Mehran Sahami](https://profiles.stanford.edu/mehran-sahami) (Stanford), [Chenyu Zhang](https://www.chenyuzhang.com) (MIT Media Lab), [Rene Kizilcec](https://bowers.cornell.edu/people/rene-kizilcec) (Cornell), [Geoffrey L. Cohen](https://profiles.stanford.edu/geoffrey-cohen) (Stanford), and [Hazel Rose Markus](https://profiles.stanford.edu/hazel-markus) (Stanford)
 
 - 🌏 **[Proceedings of the National Academy of Sciences (PNAS)](https://www.pnas.org/doi/abs/10.1073/pnas.2016964118)** (2021) — *Passion matters but not equally everywhere*. Predictive models on **1.2M adolescent participants across three international datasets and 59 societies** — quantified how the drivers of human achievement shift systematically by cultural context. Foundational evidence for why behavioral AI fails outside its training distribution. With Geoffrey L. Cohen and Hazel Rose Markus (Stanford).
