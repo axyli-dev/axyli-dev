@@ -16,16 +16,15 @@ Only the things you love.
 
 - **Stanford** — Psychology, PhD (2021)
 - **Stanford** — Political Science, MA (2018)
-- **Tsinghua** — Psychology, BS (2016)
+- **Tsinghua** — Psychology, BS (2015)
 
 ## Research
 
 > *Building AI for humans. Auditing AI on humans.*
 
-🏆 **Top general-science (*PNAS*) and AI venues (AAAI, UbiComp).**
+🏆 **Published in top general-science (*PNAS*) and AI venues (AAAI, UbiComp).**
 
 📊 **1.2M+** participants · 🌏 **65** countries · 🤖 **67** AI systems audited
-👥 Collaborators at **Stanford** · **Harvard** · **MIT Media Lab** · **Cornell**
 
 Building **AI for human flourishing** — large-scale predictive models of human behavior, plus the evaluation methodology that catches where they fail outside their training distribution.
 
