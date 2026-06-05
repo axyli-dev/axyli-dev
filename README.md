@@ -16,8 +16,10 @@ Only the things you love.
 
 - **Stanford** — Psychology, PhD (2021)
 - **Stanford** — Political Science, MA (2018)
-- **Tsinghua** — Psychology, BS (2015)
+- **Tsinghua** — Psychology, BS (2016)
 
-## Find me elsewhere
+## Research
 
-<!-- coming soon -->
+Trained as a research psychologist. Full record:
+
+📚 [Google Scholar](https://scholar.google.com/citations?user=l1C8u3QAAAAJ) · 🆔 [ORCID 0000-0002-6674-119X](https://orcid.org/0000-0002-6674-119X)
