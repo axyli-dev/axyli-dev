@@ -46,8 +46,8 @@ Only the things you love.
 
 **Filmography**
 
-- 🎞 **Homesick** (回穷) — 2023 · *debut*
-- 🎞 **Goddesses Trivial and Cute** — 2023
+- 🎞 **Homesick** (回家) — 2023 · *debut*
+- 🎞 **Goddesses Trivial and Cute** (景明) — 2023
 - 🎞 **A Champagne Problem** (相逢恨早) — 2024
 - 🎞 **Faith Inc.** — 2025
 
