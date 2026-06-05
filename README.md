@@ -16,7 +16,7 @@ Only the things you love.
 
 - **Stanford** — Psychology, PhD (2021)
 - **Stanford** — Political Science, MA (2018)
-- **Tsinghua** — Psychology, BS (2016)
+- **Tsinghua** — Psychology, BS (2015)
 
 ## Research
 
