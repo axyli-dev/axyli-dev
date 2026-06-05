@@ -16,7 +16,7 @@ Only the things you love.
 
 - **Stanford** — Psychology, PhD (2021)
 - **Stanford** — Political Science, MA (2018)
-- **Tsinghua** — Psychology, BS (2015)
+- **Tsinghua** — Psychology, BS (2016)
 
 ## Research
 
@@ -25,6 +25,8 @@ Only the things you love.
 🏆 **Published in top general-science (*PNAS*) and AI venues (AAAI, UbiComp).**
 
 📊 **1.2M+** participants · 🌏 **65** countries · 🤖 **67** AI systems audited
+👥 Collaborators across **Stanford** · **Harvard** · **MIT Media Lab** · **Cornell**
+Including [Geoffrey L. Cohen](https://profiles.stanford.edu/geoffrey-cohen), [Mehran Sahami](https://profiles.stanford.edu/mehran-sahami), [Rene Kizilcec](https://bowers.cornell.edu/people/rene-kizilcec), and [Chenyu Zhang](https://www.chenyuzhang.com)
 
 Building **AI for human flourishing** — large-scale predictive models of human behavior, plus the evaluation methodology that catches where they fail outside their training distribution.
 
