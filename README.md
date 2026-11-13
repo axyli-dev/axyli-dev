@@ -8,7 +8,7 @@ an AI for human flourishing company.
 ## 🪴 Currently
 
 - 🌱 Building **Neuromantics**
-- 🔬 Research @ [Stanford HAI Generative UI Group](https://github.com/Stanford-HAI-Generative-UI-Group)
+- 🔬 Research @ Stanford Institute for Human-centered AI
 - 🎬 Writing & filmmaking (sold my lasted TV series script to ByteDance, January of 2026)
 
 ## 🌳 Background
