@@ -3,14 +3,13 @@
 > Make AI cool again.
 
 I'm building **[Neuromantics](https://github.com/neuromantics-inc)** —
-an AI-native operating system. A computer that knows you.
-Only the things you love.
+an AI for human flourishing company.
 
 ## 🪴 Currently
 
-- 🌱 Building **Meadow**
+- 🌱 Building **Neuromantics**
 - 🔬 Research @ [Stanford HAI Generative UI Group](https://github.com/Stanford-HAI-Generative-UI-Group)
-- 🎬 Writing & filmmaking (still serious about both)
+- 🎬 Writing & filmmaking (sold my lasted TV series script to ByteDance, January of 2026)
 
 ## 🌳 Background
 
@@ -20,7 +19,7 @@ Only the things you love.
 
 ## 🌿 Research
 
-> *Building AI for human flourishing. Auditing AI on humans.*
+> *Building AI for human flourishing.*
 
 🏆 **Published in top general-science (*PNAS*) and AI venues (AAAI, UbiComp).**
 
