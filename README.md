@@ -35,7 +35,7 @@ an AI for human flourishing company.
 
 - 🌾 **[arXiv preprint](https://arxiv.org/abs/2103.15212)** (2021) — *On the limits of algorithmic prediction across the globe*. Benchmarked state-of-the-art predictive models across **65 countries on 200 behavioral features** — accuracy decays linearly with target-country development index, a quantitative measure of out-of-distribution generalization failure in behavioral AI. With Rene F. Kizilcec (Cornell).
 
-📚 [Google Scholar](https://scholar.google.com/citations?user=l1C8u3QAAAAJ) · 🆔 [ORCID 0000-0002-6674-119X](https://orcid.org/0000-0002-6674-119X)
+📚 [Google Scholar](https://scholar.google.com/citations?user=jmRsULEAAAAJ&hl=en&oi=sra) · 🆔 [ORCID 0000-0002-6674-119X](https://orcid.org/0000-0002-6674-119X)
 
 ## 🎬 Film
 
