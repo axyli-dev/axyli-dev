@@ -5,10 +5,9 @@
 I'm building **[Neuromantics](https://github.com/neuromantics-inc)** —
 an AI for human flourishing company.
 
-## 🪴 Currently
+## 🪴 About Me
 
-- 🌱 Building **Neuromantics**
-- 🔬 Research @ Stanford Institute for Human-centered AI
+- 🔬 Post-doc Research @ Stanford Institute for Human-centered AI
 - 🎬 Writing & filmmaking (sold my lasted TV series script to ByteDance, January of 2026)
 
 ## 🌳 Background
